@@ -1,0 +1,5 @@
+{
+  "name": "Mario Pomodoro",
+  "description": "A Super Mario themed Pomodoro timer with task tracking and history calendar.",
+  "requestFramePermissions": []
+}
